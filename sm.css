@@ -1,0 +1,147 @@
+#section1{
+    background-color: #ff4c68;
+}
+
+#section3{
+    background-color: #baff4c;
+}
+.container1{
+   
+    font-size: 3.5rem;
+    text-align: center;
+    background-image:url(/img/sm/Web\ capture_2-11-2022_18120_.jpeg);
+    background-position: center;
+    
+  
+    
+}
+h1{
+
+text-align: center;
+}
+.sam1{
+    padding-bottom: 45rem;
+    color: cadetblue;
+}
+span{
+    color:aqua ;
+}
+.margin{
+    margin-left: 0;
+    margin-right: 0;
+}
+#section3{
+    padding-top: 2rem;
+}
+.para1{
+    text-align: center;
+    font-size: 2rem;
+}
+.b{
+    border: 5rem;
+}
+.card-header,.card-body{
+    text-align: center;
+}
+.card{
+    margin-bottom: 5rem;
+}
+.attendance{
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    text-align: center;
+}
+label{
+    padding-bottom: 2rem;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #1ad990);
+    background-image: -moz-linear-gradient(top, #3498db, #1ad990);
+    background-image: -ms-linear-gradient(top, #3498db, #1ad990);
+    background-image: -o-linear-gradient(top, #3498db, #1ad990);
+    background-image: linear-gradient(to bottom, #3498db, #1ad990);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 31px;
+    padding: 9px 20px 10px 20px;
+    text-decoration: none;
+    padding: 2rem;
+  }
+  
+  .btn:hover {
+    background: #fc3caf;
+    background-image: -webkit-linear-gradient(top, #fc3caf, #d9bb34);
+    background-image: -moz-linear-gradient(top, #fc3caf, #d9bb34);
+    background-image: -ms-linear-gradient(top, #fc3caf, #d9bb34);
+    background-image: -o-linear-gradient(top, #fc3caf, #d9bb34);
+    background-image: linear-gradient(to bottom, #fc3caf, #d9bb34);
+    text-decoration: none;
+  }
+  #section4{
+    background-color: #d9bb34;
+    margin-top: 3rem;
+  }
+  .deemed{
+    margin-left: 20%;
+    width: 70%;
+  }
+  .color{
+    color: #4c6aff;
+  }
+  #section5{
+    margin: 5rem 0;
+  }
+  #section6{
+    background-color: #d9bb34;
+  }
+.h1{
+    background-color: #1ad990;
+  }
+  .about{
+    margin: 2rem 1rem;
+    padding-bottom: 5rem;
+  }
+  .logo{
+    height: 12.5rem;
+    margin-bottom: 4rem;
+
+  }
+  .collage{
+    margin-left: 30%;
+    margin-bottom: 4rem;
+
+  
+  }
+  #section7{
+    margin-top: 3rem;
+    background-color: aquamarine;
+  }
+  .placement{
+    color: rgb(241, 29, 203);
+    background: #1ad990;
+  }
+  .img1{
+ margin-left: 20%;
+ height: 20rem;
+ border-radius: 50%;
+  }
+  .img2{
+    height: 20rem;
+    margin-left: 5%;
+    border-radius: 20%;
+     }
+     .contactus{
+        font-size: 3rem;
+        background-color: chartreuse;
+     }
+     .e1{
+        text-align: center;
+     }
+     #section8{
+        margin-top: 3rem;
+        background-color: antiquewhite;
+     }
